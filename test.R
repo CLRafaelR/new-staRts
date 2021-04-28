@@ -1,0 +1,12 @@
+install.packages(
+  c(
+    "lme4",
+    "tidyverse", 
+    "magrittr",
+    "remotes",
+    "rmarkdown",
+    "knitr",
+    "tinytex",
+    "bookdown"
+  )
+)
